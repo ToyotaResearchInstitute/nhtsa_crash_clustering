@@ -21,7 +21,7 @@ To make sure you have the right environment and packages for running this code, 
 
 ```bash
 # first, git clone this repository
-git clone git@github.com:ToyotaResearchInstitute/nhtsa_crash_clustering.git
+git clone https://github.com/ToyotaResearchInstitute/nhtsa_crash_clustering.git
 
 # create a python virtual environment in the repo directory
 cd nhtsa_crash_clustering
